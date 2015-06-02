@@ -1,3 +1,5 @@
+def dieren()
+
 dieren = ["aap", "bever", "chimpansee", "drommedaris", "egel", "flamingo", "giraffe", "ijsvogel", "juffer", "kieviet", "leeuw", "mol", "neushoorn", "nijlpaard", "olifant", "pony", "rat", "slang", "tijger", "uil", "vleermuis", "walvis", "yak", "zebra"];
 
 
@@ -14,4 +16,5 @@ for dier in dieren
 		puts dier		
 	end
 end
+
 
